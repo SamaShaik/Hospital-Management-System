@@ -24,7 +24,6 @@ The Doctor Panel is a part of the Hospital Management System developed using PHP
 - HTML (User interface)
 - CSS (Layout and Styling)
 
-#### **Getting Started**
 
 #### **Prerequisites**
 Make sure you have the following installed:
